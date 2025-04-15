@@ -1,6 +1,6 @@
 // URL base da API do CrudCrud
 // Substitua YOUR_API_KEY pela chave gerada no CrudCrud
-const API_URL = 'https://crudcrud.com/api/dd85e0081b1b49b88984258ce471c2eb';
+const API_URL = 'https://crudcrud.com/api/3c7a18badfc54da498d95a1bc3f7c9da/customers';
 
 // Elementos do DOM
 const clienteForm = document.getElementById('clienteForm');
